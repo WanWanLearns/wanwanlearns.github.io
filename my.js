@@ -23,5 +23,5 @@ function test() {
 	//document.write("hello there!");
 }
 
-document.getElementById('btn2').addEventListener('click', test);
+document.getElementById('btn2').addEventListener('click', addGS);
 
