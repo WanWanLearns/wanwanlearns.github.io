@@ -18,6 +18,9 @@ function addGS() {
 
 }
 
+function test() {
+	alert('hello world!');	
+}
 
-document.getElementById('btn2').addEventListener('click',addGS);
+document.getElementById('btn2').addEventListener('click', test);
 
