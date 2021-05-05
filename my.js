@@ -16,6 +16,7 @@ function addGS() {
 		body: JSON.stringify({name:"Alvin"}) // body data type must match "Content-Type" header
   	});
 
+	alert('Info Saved.');	
 }
 
 function test() {
